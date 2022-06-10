@@ -1,7 +1,7 @@
 ### Hi I'm Juliana Ramos 👋
 
 
-- 🌱 I’m currently learning HTML,CSS,DOTNET,C#,PYHTON,JS
+- 🌱 I’m currently learning HTML,CSS,JS,Python
 - 👯 I'm try to collaborate with projects Front-end
 - 🤔 I’m looking for help with CSharp
 - 😄 Pronouns: ela/dela
