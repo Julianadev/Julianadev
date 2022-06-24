@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML,CSS,JS,Python
 - 👯 I'm try to collaborate with projects Front-end
 - 🤔 I’m looking for help with CSharp
-- 😄 Pronouns: ela/dela
+
 
 
 <div align="center">
