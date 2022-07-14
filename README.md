@@ -1,11 +1,8 @@
 ### Hi I'm Juliana Ramos 👋
 
 
-- 🌱 I’m currently learning HTML,CSS,JS,Python
+- 🌱 I’m currently learning HTML,CSS,JS,Python , C#
 - 👯 I'm try to collaborate with projects Front-end
-- 🤔 I’m looking for help with CSharp
-
-
 
 <div align="center">
   <a href="https://github.com/julianadev">
