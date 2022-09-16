@@ -1,7 +1,7 @@
 ### Hi I'm Juliana Ramos 👋
 
 
-- 🌱 I’m currently learning HTML,CSS,JS,Python , C#
+- 🌱 I’m currently C#
 - 👯 I'm try to collaborate with projects Front-end
 
 <div align="center">
