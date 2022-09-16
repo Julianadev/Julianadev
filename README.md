@@ -1,9 +1,12 @@
 <div align="center">
-   Hi I'm Juliana Ramos 👋
+<kbd>Developer Back-End</kbd>
+   
+  <h1>Hi I'm Juliana Ramos👋</h1><br>
   
-  👩🏻‍💻 I'm currently studying C# and .NET 
+  <p>- I'm currently studying C# and .NET</p>
   
-  🛠️ I'm try to collaborate with projects FullStack
+  <p>- I'm try to collaborate with projects FullStack<p>
+  
 </div>
 
 <div align="center">
