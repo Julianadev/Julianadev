@@ -1,8 +1,8 @@
 ### Hi I'm Juliana Ramos 👋
 
 
-- 🌱 I’m currently C#
-- 👯 I'm try to collaborate with projects Front-end
+- 🌱 I'm currently studying C# and .NET
+- 👯 I'm try to collaborate with projects FullStack
 
 <div align="center">
   <a href="https://github.com/julianadev">
