@@ -34,4 +34,9 @@
 </div>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Julianadev&theme=monokai&no-frame=false&no-bg=true&margin-w=45&column=-1)
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Julianadev&icon=0&color=10)](https://visitcount.itsvg.in)
