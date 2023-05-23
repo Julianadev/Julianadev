@@ -29,9 +29,10 @@
 
 
  
-  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadev&layout=compact&langs_count=6&theme=radical)"/>
+  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadev&layout=compact&langs_count=6&theme=dark" />
      
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compact&theme=radical)"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compact&theme=dark" />
+  
 
 </div>
 <div align="center"><br>
