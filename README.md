@@ -1,7 +1,11 @@
 
-<kbd>Developer Back-End</kbd>
-   
-# Welcome to My Profile!
+<p align="center">
+   <kbd>Developer Back-End</kbd>
+</p>
+
+&nbsp; <!-- Add space -->
+
+   <h1 align="center"> Welcome to My Profile!</h1>
 
 ## About Me
 
