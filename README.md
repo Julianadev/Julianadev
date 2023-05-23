@@ -1,20 +1,33 @@
-<div align="center">
+
 <kbd>Developer Back-End</kbd>
    
-  <h1>Hi I'm Juliana Ramos👋</h1><br>
-  
-  <p>- I'm currently studying C# and .NET</p>
-  
-  <p> I believe that technology can change the world and I am always looking for new ways to contribute to this path. When I'm not coding, I like to travel and explore new cultures and cook delicious dishes. Welcome to my world of technology and adventures!" </p>
-  
-</div>
+# Welcome to My Profile!
 
-<div align="center">
-  <a href="https://github.com/julianadev">
+## About Me
+
+- 👩‍💻 I'm a backend developer with a passion for problem-solving and creating efficient solutions.
+- 🎓 Currently, I'm pursuing a degree in Computer Engineering and gaining knowledge in various areas of technology.
+- 💼 I have experience in software development using Python and C#.
+- 🌱 I'm always learning and seeking to enhance my programming.
+
+## Technical Skills
+
+- 💻 Python: Application development, data manipulation, task automation.
+- 💻 C#: Desktop application development, object-oriented programming.
+- 💻 Databases: SQL, data modeling, querying, performance optimization.
+- 💻 Git: Version control, project collaboration, conflict resolution.
+- 💻 Other Languages: HTML, CSS, JavaScript.
+
+
+## Contribution
+
+- ✨ I'm open to collaborations and exciting opportunities. If you have any projects I can contribute to or want to discuss ideas, feel free to reach out.
+
+
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadev&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadev&layout=compact&langs_count=6&theme=radical)"/>
      
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compact&theme=radical)"/>
 
 </div>
 <div align="center"><br>
