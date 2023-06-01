@@ -27,48 +27,35 @@
 
 - ✨ I'm open to collaborations and exciting opportunities. If you have any projects I can contribute to or want to discuss ideas, feel free to reach out.
 
-
- 
-  <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianadev&layout=compact&langs_count=6&theme=dark" />
-     
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compact&theme=dark" />
   
+ 
+ <div align="center">
+ 
+  <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=julianadev&theme=highcontrast" />
+     
+  
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadev&hide=html&layout=compact&langs_count=5&theme=highcontrast" />
+   
+ <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianadev&theme=2077" />
+   
+   
+  </div>
+
+&nbsp; <!-- Add space -->
 
 <div align="center">
   <p align="center">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="fill: #FF0000"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="fill: #FFF"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="fill: #FFF"/>
-    </a>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </p>
 </div>
-
 
   
 ##
@@ -84,8 +71,9 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Julianadev&theme=monokai&no-frame=false&no-bg=true&margin-w=45&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=Julianadev&theme=radical&no-frame=false&no-bg=true&margin-w=45&column=-1)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Julianadev&icon=0&color=10)](https://visitcount.itsvg.in)
+
