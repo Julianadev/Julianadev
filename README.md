@@ -54,6 +54,11 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+     <img src="https://img.shields.io/badge/Tableu-323330?style=for-the-badge&logo=tableu&logoColor=F7DF1E" />
+     <img src="https://img.shields.io/badge/PowerBi-323330?style=for-the-badge&logo=PowerBi&logoColor=F7DF1E" />
+     <img src="https://img.shields.io/badge/Excel-323330?style=for-the-badge&logo=Excel&logoColor=green" />
+     <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL" />
+     
   </p>
 </div>
 
