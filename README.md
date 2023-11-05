@@ -58,6 +58,12 @@
      <img src="https://img.shields.io/badge/PowerBi-323330?style=for-the-badge&logo=PowerBi&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/Excel-323330?style=for-the-badge&logo=Excel&logoColor=green" />
      <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL" />
+      <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=Pandas&logoColor=F7DF1E" />
+       <img src="https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=GoogleCloud&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP&logoColor=F7DF1E" />
+         <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=F7DF1E" />
+     
      
   </p>
 </div>
