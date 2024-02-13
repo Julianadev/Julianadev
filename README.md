@@ -47,39 +47,25 @@
   <p align="center">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-     <img src="https://img.shields.io/badge/Tableu-323330?style=for-the-badge&logo=tableu&logoColor=F7DF1E" />
-     <img src="https://img.shields.io/badge/PowerBi-323330?style=for-the-badge&logo=PowerBi&logoColor=F7DF1E" />
-     <img src="https://img.shields.io/badge/Excel-323330?style=for-the-badge&logo=Excel&logoColor=green" />
-     <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL" />
+     <img src="https://img.shields.io/badge/PowerBI-323330?style=for-the-badge&logo=PowerBI&logoColor=F7DF1E" />
+     <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=PostgreSQL&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=Pandas&logoColor=F7DF1E" />
        <img src="https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=GoogleCloud&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP&logoColor=F7DF1E" />
-         <img src="https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=Linux&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=Windows&logoColor=F7DF1E" />
-     
+        <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP&logoColor=blue" />
+         <img src="https://img.shields.io/badge/RPA-323330?style=for-the-badge&logo=RPA&logoColor=F7DF1E" />
+         <img src="https://img.shields.io/badge/IA-512BD4?style=for-the-badge&logo=ia&logoColor=white" />
      
   </p>
 </div>
 
-  
 ##
-  
-<div align="center"> 
-  <a href="https://www.instagram.com/ju.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Julianadev&theme=radical&no-frame=false&no-bg=true&margin-w=45&column=-1)
