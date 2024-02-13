@@ -20,7 +20,7 @@
 - 💻 C#: Desktop application development, object-oriented programming.
 - 💻 Databases: SQL, data modeling, querying, performance optimization.
 - 💻 Git: Version control, project collaboration, conflict resolution.
-- 💻 Other Languages: HTML, CSS, JavaScript.
+- 💻 Other Languages: PHP, JavaScript.
 
 
 ## Contribution
