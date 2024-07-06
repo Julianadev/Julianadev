@@ -1,16 +1,19 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQE0Eu5686uhIw/profile-displaybackgroundimage-shrink_350_1400/0/1709776693154?e=1725494400&v=beta&t=1BX72ZKs-2sb4HotLnZ6IDLhHErEJGaurqce-T28390">
 
 &nbsp; <!-- Add space -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+-+vindo;Developer+Back+End;Engenheira+de+Dados;"></a>
+</p>
 
-
-## About Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwaDBleDE0bWFlZGlqMHFia2h0OGt3M2drMTRtZzN2cDc5cTVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.webp" width="35"><b> About </b>
 
 - 👩‍💻 I'm a backend developer with a passion for problem-solving and creating efficient solutions.
 - 🎓 Currently, I'm pursuing a degree in Computer Engineering and gaining knowledge in various areas of technology.
 - 💼 I have experience in software development using Python and C#.
 - 🌱 I'm always learning and seeking to enhance my programming.
 
-## Technical Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 - 💻 Python: Application development, data manipulation, task automation.
 - 💻 C#: Desktop application development, object-oriented programming.
@@ -19,7 +22,8 @@
 - 💻 Other Languages: PHP, JavaScript.
 
 
-## Contribution
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribution </b>
+<br>
 
 - ✨ I'm open to collaborations and exciting opportunities. If you have any projects I can contribute to or want to discuss ideas, feel free to reach out.
 
