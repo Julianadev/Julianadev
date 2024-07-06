@@ -54,7 +54,8 @@
        <img src="https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=GoogleCloud&logoColor=F7DF1E" />
         <img src="https://img.shields.io/badge/airflow-323330?style=for-the-badge&logo=airflow&logoColor=F7DF1E" />
          <img src="https://img.shields.io/badge/RPA-323330?style=for-the-badge&logo=RPA&logoColor=F7DF1E" />
-         <img src="https://img.shields.io/badge/OpenAI-512BD4?style=for-the-badge&logo=OpenAI&logoColor=white" />    
+         <img src="https://img.shields.io/badge/OpenAI-512BD4?style=for-the-badge&logo=OpenAI&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jupyter-512BD4?style=for-the-badge&logo=Jupyter&logoColor=white" />  
   </p>
 </div>
 <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
