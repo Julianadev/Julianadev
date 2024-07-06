@@ -58,7 +58,8 @@
           <img src="https://img.shields.io/badge/Jupyter-323330?style=for-the-badge&logo=Jupyter&logoColor=F7DF1E" />  
           <img src="https://img.shields.io/badge/Pytest-323330?style=for-the-badge&logo=Pytest&logoColor=F7DF1E" />
           <img src="https://img.shields.io/badge/Botcity-323330?style=for-the-badge&logo=Botcity&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/Uipath-323330?style=for-the-badge&logo=Uipath&logoColor=F7DF1E" /> 
+          <img src="https://img.shields.io/badge/Uipath-323330?style=for-the-badge&logo=Uipath&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/Blip-323330?style=for-the-badge&logo=Blip&logoColor=F7DF1E" /> 
   </p>
 </div>
 <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
