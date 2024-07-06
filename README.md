@@ -1,11 +1,10 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQE0Eu5686uhIw/profile-displaybackgroundimage-shrink_350_1400/0/1709776693154?e=1725494400&v=beta&t=1BX72ZKs-2sb4HotLnZ6IDLhHErEJGaurqce-T28390">
 <p align="center">
-   <kbd>Developer Back-End</kbd>
+   <kbd>Welcome to My Profile!</kbd>
 </p>
 
 &nbsp; <!-- Add space -->
 
-   <h1 align="center"> Welcome to My Profile!</h1>
 
 ## About Me
 
