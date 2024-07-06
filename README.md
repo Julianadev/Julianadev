@@ -64,7 +64,6 @@
 </div>
 <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
 
-
 ##
  
 
@@ -75,3 +74,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Julianadev&icon=0&color=10)](https://visitcount.itsvg.in)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&weight=500&section=footer"/>
+</p>
