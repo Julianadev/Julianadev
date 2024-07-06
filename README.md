@@ -46,7 +46,7 @@
 <div align="center">
   <p align="center">
      <img src="https://img.shields.io/badge/PowerBI-323330?style=for-the-badge&logo=PowerBI&logoColor=F7DF1E" />
-     <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sql&logoColor=white" />
+     <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sql&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=PostgreSQL&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=Pandas&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=Numpy&logoColor=F7DF1E" />
@@ -54,8 +54,11 @@
        <img src="https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=GoogleCloud&logoColor=F7DF1E" />
         <img src="https://img.shields.io/badge/airflow-323330?style=for-the-badge&logo=airflow&logoColor=F7DF1E" />
          <img src="https://img.shields.io/badge/RPA-323330?style=for-the-badge&logo=RPA&logoColor=F7DF1E" />
-         <img src="https://img.shields.io/badge/OpenAI-512BD4?style=for-the-badge&logo=OpenAI&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jupyter-512BD4?style=for-the-badge&logo=Jupyter&logoColor=white" />  
+         <img src="https://img.shields.io/badge/OpenAI-323330?style=for-the-badge&logo=OpenAI&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/Jupyter-323330?style=for-the-badge&logo=Jupyter&logoColor=F7DF1E" />  
+          <img src="https://img.shields.io/badge/Pytest-323330?style=for-the-badge&logo=Pytest&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/Botcity-323330?style=for-the-badge&logo=Botcity&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/Uipath-323330?style=for-the-badge&logo=Uipath&logoColor=F7DF1E" /> 
   </p>
 </div>
 <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
