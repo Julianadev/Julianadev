@@ -2,7 +2,7 @@
 
 &nbsp; <!-- Add space -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+-+vindo;Developer+Back+End;Engenheira+de+Dados;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+-+vindo;Developer+Back+-+End;Engenheira+de+Dados;"></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwaDBleDE0bWFlZGlqMHFia2h0OGt3M2drMTRtZzN2cDc5cTVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.webp" width="35"><b> About </b>
@@ -45,24 +45,20 @@
 
 <div align="center">
   <p align="center">
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/PowerBI-323330?style=for-the-badge&logo=PowerBI&logoColor=F7DF1E" />
      <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=sql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=PostgreSQL&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Pandas-323330?style=for-the-badge&logo=Pandas&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Numpy-323330?style=for-the-badge&logo=Numpy&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=Matplotlib&logoColor=F7DF1E" />
        <img src="https://img.shields.io/badge/GoogleCloud-323330?style=for-the-badge&logo=GoogleCloud&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=PHP&logoColor=blue" />
+        <img src="https://img.shields.io/badge/airflow-323330?style=for-the-badge&logo=airflow&logoColor=F7DF1E" />
          <img src="https://img.shields.io/badge/RPA-323330?style=for-the-badge&logo=RPA&logoColor=F7DF1E" />
-         <img src="https://img.shields.io/badge/IA-512BD4?style=for-the-badge&logo=ia&logoColor=white" />
-     
+         <img src="https://img.shields.io/badge/OpenAI-512BD4?style=for-the-badge&logo=OpenAI&logoColor=white" />    
   </p>
 </div>
+<img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
+
 
 ##
  
