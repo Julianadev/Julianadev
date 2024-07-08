@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=cyan&size=42&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+-+vindo(a);Developer+Back+-+End;Engenheira+de+Dados;"></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQwaDBleDE0bWFlZGlqMHFia2h0OGt3M2drMTRtZzN2cDc5cTVpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.webp" width="35"><b> About </b>
+## About
 
 - 👩‍💻 I'm a backend developer with a passion for problem-solving and creating efficient solutions.
 - 🎓 Currently, I'm pursuing a degree in Computer Engineering and gaining knowledge in various areas of technology.
