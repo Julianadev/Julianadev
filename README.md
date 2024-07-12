@@ -74,6 +74,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Julianadev&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&weight=500&section=footer"/>
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
