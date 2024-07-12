@@ -36,7 +36,7 @@
   
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadev&hide=html&layout=compact&langs_count=6&theme=highcontrast" />
    
- <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianadev&theme=2077" />
+ <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianadev&theme=highcontrast" />
    
    
   </div>
