@@ -38,7 +38,6 @@
    
  <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianadev&theme=highcontrast" />
    
-   
   </div>
 
 &nbsp; <!-- Add space -->
