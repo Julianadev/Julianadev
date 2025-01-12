@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQE0Eu5686uhIw/profile-displaybackgroundimage-shrink_350_1400/0/1709776693154?e=1725494400&v=beta&t=1BX72ZKs-2sb4HotLnZ6IDLhHErEJGaurqce-T28390">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2024/04/Top-8-Coding-Platforms-for-Data-Science-Beginner-01-scaled.jpg">
 
 &nbsp; <!-- Add space -->
 <p align="center">
