@@ -2,39 +2,45 @@
 
 &nbsp; <!-- Add space -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=cyan&size=42&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+-+vindo(a);Developer+Back+-+End;Engenheira+de+Dados;"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Impact&color=00FFFF&size=42&center=true&vCenter=true&width=750&height=100&lines=Seja+bem-vindo(a)!;Backend+Developer;Automação+RPA+%26+Soluções+Inteligentes" />
 </p>
 
-## About
+---
 
-- 👩‍💻 I'm a backend developer with a passion for problem-solving and creating efficient solutions.
-- 🎓 Currently, I'm pursuing a degree in Computer Engineering and gaining knowledge in various areas of technology.
-- 💼 I have experience in software development using Python and C#.
-- 🌱 I'm always learning and seeking to enhance my programming.
+## 👩‍💻 Sobre mim
+
+Sou **Backend Developer** com forte atuação em **Automação RPA**, criação de sistemas, integrações e soluções inteligentes para empresas.
+
+- 💻 Foco principal: **Backend, RPA e automação de processos**
+- 🤖 Experiência prática com **Robôs, Automação Web e Desktop, Desenvolvimento de Software, Dashboards, APIs e Integrações**
+- 📊 Possuo **especialização em Engenharia de Dados**, aplicada no dia a dia (ETL, SQL, pipelines) e em Red Team 
+- 🧠 Perfil analítico, orientado a performance, escalabilidade e regras de negócio
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-- 💻 Python: Application development, data manipulation, task automation.
-- 💻 C#: Desktop application development, object-oriented programming.
-- 💻 Databases: SQL, data modeling, querying, performance optimization.
-- 💻 Git: Version control, project collaboration, conflict resolution.
-- 💻 Other Languages: PHP, JavaScript.
+ - 💻 Python: Desenvolvimento de aplicações, manipulação de dados, automação de tarefas.
+ - 💻 C#: Desenvolvimento de aplicações desktop, programação orientada a objetos.
+ - 💻 Bancos de dados: SQL, modelagem de dados, consultas, otimização de desempenho.
+ - 💻 Git: Controle de versão, colaboração em projetos, resolução de conflitos.
+ - 💻 Outras linguagens: PHP, JavaScript.
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribution </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Contribuição </b>
 <br>
 
-- ✨ I'm open to collaborations and exciting opportunities. If you have any projects I can contribute to or want to discuss ideas, feel free to reach out.
+- ✨ Estou aberta a colaborações. Se você tiver algum projeto no qual eu possa contribuir ou quiser discutir ideias, fique à vontade para entrar em contato.
 
   
  
  <div align="center">
  
-  <img height="180em" width="470em" src ="https://github-readme-streak-stats.herokuapp.com/?user=julianadev&theme=highcontrast" />
-     
+  <img height="180em" width="470em" src ="https://streak-stats.demolab.com/?user=julianadev&theme=highcontrast" />
   
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianadev&hide=html&layout=compact&langs_count=6&theme=highcontrast" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianadev&theme=github_dark" />
+
    
  <img height="228em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianadev&theme=highcontrast" />
    
@@ -62,12 +68,6 @@
   </p>
 </div>
 <img align="center" alt="Skills" src="https://skillicons.dev/icons?i=js,php,python,selenium,flask,django,git,github,vscode,pycharm,postman,mysql,vercel,html,css,bootstrap,windows,linux&perline=20">
-
-##
- 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Julianadev&theme=radical&no-frame=false&no-bg=true&margin-w=45&column=-1)
 
 
 ---
